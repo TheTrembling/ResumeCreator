@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\ResumeCreator\bin\Debug\ResumeCreator.exe.config
+C:\Users\lenovo\source\repos\ResumeCreator\bin\Debug\ResumeCreator.exe
+C:\Users\lenovo\source\repos\ResumeCreator\bin\Debug\ResumeCreator.pdb
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.Properties.Resources.resources
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.exe
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.pdb
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.Step1.resources
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.Step2.resources
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.Step3.resources
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.Step4.resources
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.Step5.resources
+C:\Users\lenovo\source\repos\ResumeCreator\obj\Debug\ResumeCreator.Ready.resources
